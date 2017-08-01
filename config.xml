@@ -48,7 +48,7 @@
 		
 		<!-- ios icons -->
 		<!-- iPhone 6 / 6+ -->
-		<icon src="icons/ios/Icon-83.5@2x.png" platform="ios" width="167" height="167" />
+		<icon src="icons/ios/ipad_pro.png" platform="ios" width="167" height="167" />
 		<icon src="icons/ios/icon-60@3x.png" platform="ios" width="180" height="180" />
 		<!-- iPhone / iPod Touch  -->
 		<icon src="icons/ios/icon-60.png" platform="ios" width="60" height="60" />
