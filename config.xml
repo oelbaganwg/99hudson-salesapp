@@ -104,6 +104,7 @@
   	<feature name="StatusBar"><param name="ios-package" value="CDVStatusBar" onload="true" /></feature>
 		  
 		
+		<allow-navigation href="http://192.168.0.135" />
 		<allow-navigation href="http://99hudsonapp.com" />
 		<allow-navigation href="https://99hudsonapp.com" />
 		<allow-navigation href="http://cordova.apache.org/" />
@@ -116,4 +117,5 @@
 		<allow-navigation href="*" />
 		<access origin="*" />
 		<access origin="http://99hudsonapp.com" />
+		<access origin="http://192.168.0.135" />
 </widget>
