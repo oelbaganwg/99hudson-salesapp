@@ -105,7 +105,6 @@
 		  
 		
 		<allow-navigation href="http://192.168.0.135" />
-		<allow-navigation href="http://192.168.0.135:3000" />
 		<allow-navigation href="http://99hudsonapp.com" />
 		<allow-navigation href="https://99hudsonapp.com" />
 		<allow-navigation href="http://cordova.apache.org/" />
@@ -117,8 +116,6 @@
 		<allow-navigation href="http://cordovablogs.discus.com/" />
 		<allow-navigation href="*" />
 		<access origin="*" />
-		<allow-intent href="*" />
 		<access origin="http://99hudsonapp.com" />
 		<access origin="http://192.168.0.135" />
-		<access origin="http://192.168.0.135:3000" />
 </widget>
